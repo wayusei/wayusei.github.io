@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The very beginning
+category: thoughts
 ---
 
 Trying to do this 'by the book' seems quite awkward but let's improvise a bit...
