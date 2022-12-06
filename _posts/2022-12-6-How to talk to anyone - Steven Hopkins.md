@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to Talk to Anyone" by Steven Hopkins
+title: Book review
 ---
+## *How to Talk to Anyone: Improve Social Skills, Gain Self-Confidence, and Boost Your Charisma to Instantly Connect With Anyone* book by **Steven Hopkins**
+
+
 ![Book Cover](https://m.media-amazon.com/images/I/411OIxONoXL.jpg)
 
 image from [Steven Hopkins](https://www.amazon.com/Steven-Hopkins/e/B07P6X6941/ref=aufs_dp_fta_dsk) via [Amazon](https://www.amazon.com/gp/product/B07NS8ST2B/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
