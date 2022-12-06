@@ -7,7 +7,6 @@ So, I've just read the book from Steven Hopkins -How to talk to anyone (for thos
 <p align="center">
     <img src="https://m.media-amazon.com/images/I/411OIxONoXL.jpg">
 </p>
-![Book Cover](https://m.media-amazon.com/images/I/411OIxONoXL.jpg)
 
 image from [Steven Hopkins](https://www.amazon.com/Steven-Hopkins/e/B07P6X6941/ref=aufs_dp_fta_dsk) via [Amazon](https://www.amazon.com/gp/product/B07NS8ST2B/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i2)
 
