@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'How to Talk to Anyone: Improve Social Skills, Gain Self-Confidence, and Boost Your Charisma to Instantly Connect With Anyone' by Steven Hopkins
-
+title: "How to Talk to Anyone: Improve Social Skills, Gain Self-Confidence, and Boost Your Charisma to Instantly Connect With Anyone" by Steven Hopkins
 ---
 ![Book Cover](https://m.media-amazon.com/images/I/411OIxONoXL.jpg)
 
