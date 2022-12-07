@@ -2,6 +2,7 @@
 layout: post
 title: Book review - How to talk to anyone by Steven Hopkins
 category: books
+tags: book, review
 ---
 
 So, I've just read the book *How to Talk to Anyone: Improve Social Skills, Gain Self-Confidence, and Boost Your Charisma to Instantly Connect With Anyone* (for those who know me, yes I'm aware i talk too much already). I have to say it's not about talk for the sake of it but to make meaningful small talk that can lead to conversations and eventually to have better relationships with people.
