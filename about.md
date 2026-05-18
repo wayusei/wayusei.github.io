@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/6761758?v=4">
+</p>
 
 Rodrigo works as a Business Analyst at Confie BPO and has 5 years of experience with Salesforce using Sales Cloud, Service Cloud and SFMC Account Engagement (aka Pardot). He is dedicated to solving problems, optimizing business processes and delivering value.
 
