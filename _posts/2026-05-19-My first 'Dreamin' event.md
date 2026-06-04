@@ -15,4 +15,6 @@ So, the event was held on Mérida, Yucatán city where, at that time, my mom wer
 ![At the happy hour from the Mexico Dreamin 2024]({{ site.baseurl }}/images/Me_at_MXD2024.png)
 ![Panoramic photo of attendees at Mexico Dreamin 2024]({{ site.baseurl }}/images/MexicoDreamin2024_65.jpg)
 
-See you at the next post! 😎
+If you want to know more about this amazing Salesforce Community Conference, visit [Mexico Dreamin](https://mexicodreamin.com) and take advantage of the 'early bird' tickets. This year's event will be held at the Salesforce Offices located in Mexico City on November 20th.
+
+See you there and also at the next post! 😎
