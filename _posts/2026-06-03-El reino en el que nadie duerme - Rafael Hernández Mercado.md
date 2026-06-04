@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El reino en el que nadie duerme by Rafael Hernández Mercado 
+title: Tale review - El reino en el que nadie duerme by Rafael Hernández Mercado 
 category: post
 tags: books, review, short tales
 ---
