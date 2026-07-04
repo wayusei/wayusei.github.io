@@ -5,7 +5,7 @@ category: books
 tags: book, review
 ---
 Hello y'all!
-As I told in [another post](https://wayusei.github.io/My-first-'Dreamin'-event/) I gotta read Rafa's book and write a review for it.
+As I told in [another post](https://wayusei.github.io/My-first-'Dreamin'-event/) I gotta read Rafa's book and write a review for it, well here it is.
 
 The book was written as a guide to the younglings that will experience things now they've entered -or are about to- adulthood. 
 Things like:
@@ -15,7 +15,7 @@ Things like:
 * Skills that can become powerful tools in your life.
  
 All of this and more while Rafa narrates his life experiences while he was growing up, going to school and working. The book allows for any reader to understand the wisdom Rafa communicates through his writings than seems a lot like a chronicle and -maybe it's just me- it transports you to the places Rafa describes.  
-As many of the comments you can find on Amazon about the book I could also say that "I wish I would have read that book when I was a teenager". 
+As many of the comments you can find on Amazon about the book I can also say that "I wish I would have read that book when I was a teenager". 
 
 <p align="center">
     <img src="https://m.media-amazon.com/images/I/51CzL4d6EpL._SY466_.jpg">
