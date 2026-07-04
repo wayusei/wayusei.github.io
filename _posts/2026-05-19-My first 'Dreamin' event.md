@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first "Dreamin" event
-category: post
+category: travel
 tags: events, salesforce, community, merida
 ---
 Story time y'all!
