@@ -5,7 +5,7 @@ category: books
 tags: book, review
 ---
 Hello y'all!
-As I told in (another post)[https://wayusei.github.io/My-first-'Dreamin'-event/] I gotta read Rafa's book and write a review for it.
+As I told in [another post](https://wayusei.github.io/My-first-'Dreamin'-event/) I gotta read Rafa's book and write a review for it.
 
 The book was written as a guide to the younglings that will experience things now they've entered -or are about to- adulthood. 
 Things like:
